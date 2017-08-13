@@ -79,3 +79,32 @@ div {
   width: 100%;
   background-color: black;
 }
+
+/*End of top header*/
+
+/* Start of Tea of the Month */
+
+#Tea-month{
+  margin: auto;
+  width: 1000px;
+  height: 700px;
+  padding-top: 70px;
+}
+
+.Pics img{
+  display: block;
+  height: 200px;
+  width: 300px;
+  margin: 10px;
+}
+
+.Pics{
+  Padding: 5px;
+}
+
+.Pics span{
+  display: block;
+  padding: 5px;
+  font-weight: bold;
+  text-align: center;
+}
