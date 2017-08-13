@@ -89,6 +89,7 @@ div {
   width: 1000px;
   height: 700px;
   padding-top: 70px;
+  padding-bottom: 70px;
 }
 
 .Pics img{
@@ -108,3 +109,52 @@ div {
   font-weight: bold;
   text-align: center;
 }
+
+/*--- End of store --- */
+
+/*--- Start of Locations ---*/
+
+#Locations{
+  background-image: url(../images/img-locations-background.jpg);
+  background-position: top;
+  padding-top: 70px;
+  height: 500px;
+}
+
+#Locations .f-container{
+  margin-left: auto;
+  width: 1200px;
+}
+
+.Locate{
+  flex-basis: 300px;
+  background-color: black;
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 5px 20px;
+}
+
+p{
+  display: block;
+}
+
+/*End Locations*/
+
+/*start contact*/
+#contact{
+  height: 200px;
+}
+/*end contact*/
+
+/*start copy*/
+footer{
+  text-align: left;
+  padding-left: 20px;
+}
+
+footer h5{
+  font-weight: bold;
+}
+/*end copy*/
